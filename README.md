@@ -38,6 +38,3 @@ This project walks through fixing that: designing the event schema properly, wri
 
 `SQL (recursive CTEs, window functions, percentile_cont)` · `event taxonomy / instrumentation design` · `funnel analysis` · `hypothesis-driven metric design` · `data quality auditing`
 
----
-
-*Note: underlying data and company identity are not included; this repo demonstrates the analytical and SQL approach only.*
