@@ -1,5 +1,5 @@
 # Sequential_Funnel_Analysis_Fintech_Onboarding
-# Fintech Onboarding Funnel Analysis: Sequential Funnels, SQL, and Metric Design
+## Fintech Onboarding Funnel Analysis: Sequential Funnels, SQL, and Metric Design
 
 A case study in diagnosing where users drop out of a mobile investment app's signup flow, and why "distinct users per stage" is the wrong way to measure a funnel.
 
